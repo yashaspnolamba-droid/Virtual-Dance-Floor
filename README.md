@@ -45,12 +45,6 @@ Every section is separated into dedicated, decoupled modules:
 - **5**: Robot Pop
 - **🎉 Confetti Button**: Launch celebratory confetti blasts!
 
----
 
-## 🚀 Running the Simulation
 
-```bash
-cd "C:\Users\yasha\.gemini\antigravity\scratch\virtual-dance-floor"
-npm run dev
-```
-Open **`http://localhost:3000`** in your browser.
+
